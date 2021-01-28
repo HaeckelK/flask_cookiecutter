@@ -1,1 +1,1 @@
-# flask_cookiecutter
+# flask_template
